@@ -10,7 +10,7 @@ The more information you can provide, in text, images, logs, etc will help our d
 
 ## Guide
 
-1: Select the correct template.
-2: Fill in the correct information, as much information as possible and if possible attach the log from your game.
-3: Select the correct tag, related to the server
-4: Enter a relevant title to the ticket, with a prefix tag [BUG], [FEATURE] and so on.
+1. Select the correct template.
+2. Fill in the correct information, as much information as possible and if possible attach the log from your game.
+3. Select the correct tag, related to the server
+4. Enter a relevant title to the ticket, with a prefix tag [BUG], [FEATURE] and so on.
