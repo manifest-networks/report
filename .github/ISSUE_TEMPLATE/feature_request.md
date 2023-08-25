@@ -1,8 +1,8 @@
 ---
-name: Feature request
+name: FiveM - Feature request
 about: Have an awesome idea for the server? Submit it here and maybe we can make it happen
 title: '[FEATURE] Enter the title here'
-labels: feature
+labels: feature,FiveM
 assignees: ''
 
 ---
