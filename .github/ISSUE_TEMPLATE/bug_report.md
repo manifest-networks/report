@@ -1,5 +1,5 @@
 ---
-name: [FiveM] Bug report
+name: FiveM - Bug report
 about: Create a report to help us improve our server, please make sure you've read the readme file
 title: '[BUG] Change this title to match the bug report'
 labels: bug,fivem
