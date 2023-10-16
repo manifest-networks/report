@@ -1,16 +1,22 @@
 # Welcome to Manifest Networks!
 
-Hi there, thank you for stopping by. This repo is mainly for bug and feature reporting as we've found this to be the most efficient way for our developers to communicate with our members. If you are here to report something, essentially all you need to do is to go to **Issues** > make a new issue and select the template you are reporting, for example **Bug Template** and fill in the necessary information.
+Hello there! We appreciate your visit. This repository primarily serves as a hub for reporting bugs and suggesting new features. This approach has proven to be the most effective means of communication between our developers and community members. If you're here to report an issue, all you need to do is follow these simple steps:
 
-The more information you can provide, in text, images, logs, etc will help our developers to do their work as best as they can. We do appriciate that you are taking the time to do this which allows us to have a fantastic server with an amazing community.
+1. Navigate to the "Issues" tab.
+2. Create a new issue.
+3. Select the appropriate template, such as the "Bug Template."
+4. Fill in all the necessary details.
+
+The more information you can provide, whether it's in the form of text, images, logs, or any other relevant data, the better equipped our developers will be to address the issue effectively. We truly value your commitment to helping us maintain an exceptional server with an outstanding community. Thank you for taking the time to contribute!
+
 
 ## Important
 
-**Please** make sure that you enter a title that is relevant to the report you are doing, also make sure you enter the tag for the necessary server that you are reporting it for. For example, if you are reporting for gmod then use the gmod tag, or what server you are reporting the bug for. This helps our developers to filter for what their working on.
+Please ensure that the title you provide is relevant to the report you are submitting. Additionally, make sure to include the appropriate tag for the server you are reporting the issue on. For instance, if you are reporting a bug in the Garry's Mod (GMOD) server, use the "gmod" tag or the tag of the specific server you're addressing. This will assist our developers in effectively filtering and prioritizing their work.
 
 ## Guide
 
-1. Select the correct template.
-2. Fill in the correct information, as much information as possible and if possible attach the log from your game.
-3. Select the correct tag, related to the server
-4. Enter a relevant title to the ticket, with a prefix tag [BUG], [FEATURE] and so on.
+- **Select the correct template.**
+- **Fill in the correct information:** Provide as much detail as possible, and if available, attach the game log.
+- **Select the correct tag:** Choose a tag related to the server you're reporting about.
+- **Enter a relevant title:** Use a prefix tag such as [BUG], [FEATURE], etc., followed by a descriptive title for the ticket.
